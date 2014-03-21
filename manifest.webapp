@@ -1,0 +1,13 @@
+{
+  "name": "ActivitesConsumer",
+  "description": "Activites consumer",
+  "launch_path": "/index.html",
+  "orientation": "portrait",
+  "developer": {
+    "name": "Borja Salguero & Francisco Jordano",
+    "url": "https://github.com/firefoxosedu"
+  },
+  "icons": {
+    "60": "/icons/60.png"
+  }
+}
